@@ -1,0 +1,1 @@
+The app stores and collects only the provided email and user created content inside the app. It's only purpose is app's funcionality.
