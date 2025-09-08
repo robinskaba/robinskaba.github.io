@@ -1,0 +1,1 @@
+Write an email to nikonichedevelopment@gmail.com to request a deletion of your account.
